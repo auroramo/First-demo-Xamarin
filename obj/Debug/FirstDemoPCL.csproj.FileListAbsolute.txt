@@ -1,0 +1,8 @@
+c:\users\amines\documents\visual studio 2013\Projects\FirstDemoPCL\bin\Debug\FirstDemoPCL.dll
+c:\users\amines\documents\visual studio 2013\Projects\FirstDemoPCL\bin\Debug\FirstDemoPCL.pdb
+c:\users\amines\documents\visual studio 2013\Projects\FirstDemoPCL\bin\Debug\Cirrious.CrossCore.dll
+c:\users\amines\documents\visual studio 2013\Projects\FirstDemoPCL\bin\Debug\Cirrious.MvvmCross.dll
+c:\users\amines\documents\visual studio 2013\Projects\FirstDemoPCL\bin\Debug\Cirrious.MvvmCross.Localization.dll
+c:\users\amines\documents\visual studio 2013\Projects\FirstDemoPCL\obj\Debug\FirstDemoPCL.csprojResolveAssemblyReference.cache
+c:\users\amines\documents\visual studio 2013\Projects\FirstDemoPCL\obj\Debug\FirstDemoPCL.dll
+c:\users\amines\documents\visual studio 2013\Projects\FirstDemoPCL\obj\Debug\FirstDemoPCL.pdb
